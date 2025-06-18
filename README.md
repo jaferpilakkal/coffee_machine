@@ -1,1 +1,1 @@
-This is just a coffee machine software created with basic python
+This is just a coffee machine software scrip created with basic python
